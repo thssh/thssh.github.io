@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "react-native-navigation 简单分析和跨页跳转"
+date:   2019-12-11 19:36:48 +0800
+categories: React Native
+
+---
+
+
+
 # react-native-navigation 简单分析和跨页跳转
 
 [APP](http://ju.outofmemory.cn/tag/APP/) [Javascript](http://ju.outofmemory.cn/tag/Javascript/) [Pop](http://ju.outofmemory.cn/tag/Pop/) [React](http://ju.outofmemory.cn/tag/React/) [Navigation](http://ju.outofmemory.cn/tag/Navigation/) [Native](http://ju.outofmemory.cn/tag/Native/)

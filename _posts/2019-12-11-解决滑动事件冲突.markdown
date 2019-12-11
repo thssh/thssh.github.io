@@ -1,4 +1,10 @@
-# 解决滑动事件冲突
+---
+layout: post
+title:  "解决滑动事件冲突"
+date:   2019-12-11 19:36:48 +0800
+categories: Android
+---
+
 
 ## 外部拦截
 

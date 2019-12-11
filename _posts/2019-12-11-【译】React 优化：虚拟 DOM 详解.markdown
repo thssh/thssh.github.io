@@ -1,4 +1,9 @@
-# 【译】React 优化：虚拟 DOM 详解
+---
+layout: post
+title:  "【译】React 优化：虚拟 DOM 详解"
+date:   2019-12-11 19:36:48 +0800
+categories: React
+---
 
 作者：Alexey Ivanov、 Andy Barnov | 译：大辉 
 原文地址：https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained
